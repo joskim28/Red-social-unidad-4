@@ -2,9 +2,7 @@
 ### Nuestra red social  es *incógnita*
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/assets/img/Canva-general%20(1).png)
 ## Problematicas: 
-### Quiero publicar cosas de mi día a día tanto en pequeñas historias escritas pero no quiero que sepan mi identidad
-### Que nadie sepa de mi identidad 
-### Nuestros usuarios no confían publicar sus anécdotas en público, ¡para eso estamos nosotros!
+### Actualmente existen muchas personas con problemas para expresarse, para liberar y contar lo que piensan y sienten por miedo a ser juzgados y ser señalados, se podría decir que no se sienten a gusto contar sus problemas a personas conocidas porque ya conocerían su imagen.
 ## Usuarios dirigidos:
 ### Nuestro usuario tendrá una edad mínima para entrar en nuestra aplicación de +15 años
 ## Objetivo:
