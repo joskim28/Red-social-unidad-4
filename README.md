@@ -1,6 +1,6 @@
 # Red-social
 ### Nuestra red social  es *incógnita*
-![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/assets/img/incog-githud.png)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/assets/img/Canva-general%20(1).png)
 ## Problematica: 
 
 ## Usuarios dirigidos:
