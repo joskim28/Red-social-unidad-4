@@ -10,7 +10,7 @@
 ## Objetivo:
 ### Nuestro objetivo principal es que nuestros usuarios se sientan en confianza contando sus historias sin miedo de que sepan ¿quienes son? y todo quede en anonimato sin ofender a nadie.
 ## Descripcion:
-
+### La aplicación web Incógnito, es un app que genera seguridad y confianza a los usuarios, dándole opción para leer, comentar, compartir y hacer público sus expresiones y secretos de manera incógnita, es decir, donde la persona no sé de a conocer.
 ## Funcionalidad:
 
 ## Psicologia del color 
