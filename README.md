@@ -15,9 +15,11 @@
 
 ## Psicologia del color 
 
-### Morado: 
-### Azul-morado:
-### gris-plomo: 
+### Morado:El morado está asociado con  el misterio.
+### Negro:Está asociado con estabilidad, confianza y misterio.
+### Azul:Este color inspira seguridad y confianza.
+### Gris-plomo:Refleja seguridad,confianza además es sinónimo de calma,  y estabilidad y es asociado con el misterio.
+### Blanco:Es un color neutro que esta asociado con la tranquilidad y seguridad.
 
 ## Elegimos los colores principales:
 
