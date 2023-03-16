@@ -12,7 +12,7 @@
 ## Mock-up
 
 ## Funcionalidad:
-
+### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura
 ## Psicologia del color 
 
 ### Morado: El morado está asociado con  el misterio.
