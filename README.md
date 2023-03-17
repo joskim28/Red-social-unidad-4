@@ -11,7 +11,8 @@
 ### La aplicación web Incógnito, es un app que genera seguridad y confianza a los usuarios, dándole opción para leer, comentar, compartir y hacer público sus expresiones y secretos de manera incógnita, es decir, donde la persona no sé de a conocer.
 
 ## Mock-up:
-
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/1.JPG)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/2.JPG)
 ## Funcionalidad:
 ### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura y anonima .
 ## Psicologia del color 
