@@ -26,8 +26,6 @@ Refleja seguridad,confianza además es sinónimo de calma,  y estabilidad y es a
 ### Blanco: 
 Es un color neutro que esta asociado con la tranquilidad y seguridad.
 
-## Elegimos los colores principales:
-
 ### Link de nuestro proyecto:
 
 
