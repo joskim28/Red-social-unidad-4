@@ -13,7 +13,7 @@
 ## Mock-up:
 
 ## Funcionalidad:
-### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura y anonima.
+### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura y anonima .
 ## Psicologia del color 
 
 ### Morado: 
@@ -23,16 +23,13 @@ Está asociado con estabilidad, confianza y misterio.
 ### Azul:
 Este color inspira seguridad y confianza.
 ### Gris-plomo: 
-Refleja seguridad,confianza además es sinónimo de calma,  y estabilidad y es asociado con el misterio.
+Refleja seguridad,confianza además es sinónimo de calma,estabilidad y es asociado con el misterio.
 ### Blanco: 
 Es un color neutro que esta asociado con la tranquilidad y seguridad.
 
 ### Link de nuestro proyecto:
 
-
-
 ### Link de Git Hub Pages: 
-
 
 ###  Historias de usuario:
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/1.jpg)
