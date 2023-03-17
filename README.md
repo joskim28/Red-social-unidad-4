@@ -17,7 +17,7 @@
 ## Psicologia del color 
 
 ### Morado: 
-El morado está asociado con  el misterio.
+El morado está asociado con el misterio.
 ### Negro: 
 Está asociado con estabilidad, confianza y misterio.
 ### Azul:
