@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "redsocial",
+			"path": "../../unidad4-Redsocial/redsocial"
+		},
+		{
+			"name": "Unidad4-Redsocial-20230319T011526Z-001",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "redsocial"
+	}
+}
