@@ -34,10 +34,9 @@
 
  export const getTasks = () => getDocs(collection(db,"tasks"))
  export const onGetTasks = (callback) => {onSnapshot(collection(db,"tasks"),callback)}
- export const saveTasks = (title, description, userMail) => {
-  addDoc(collection(db, "tasks"),{title, description,userMail})
+ export const saveTasks = ( description, userMail, userPhoto) => {
+  addDoc(collection(db, "tasks"),{ description, userMail, userPhoto})
  }
-
  export const deleteTask = (id) => deleteDoc(doc(db, "tasks", id));
 
  export const getTask = (id) => getDoc(doc(db, "tasks", id));
