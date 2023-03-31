@@ -38,5 +38,13 @@ Es un color neutro que esta asociado con la tranquilidad y seguridad.
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/3.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/4.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/5.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/6.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/7.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/8.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/9.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/10.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/11.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/12.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/13.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/14.jpg)
 https://www.canva.com/design/DAFdFamwpqQ/cbLOhMAZvaeoNR12SR9Vow/edit?analyticsCorrelationId=1d6ae2e9-229a-483f-9a7b-7b176333c4d2
