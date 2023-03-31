@@ -13,7 +13,7 @@
 ## Mock-up:
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/1.JPG)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/2.JPG)
-![Image text](assets/mock-up/fitma.JPG)
+![Image text](https://i.ibb.co/QMW9Pcj/download.jpg)
 
 ## Funcionalidad:
 ### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura y anonima .
