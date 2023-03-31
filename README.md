@@ -1,6 +1,6 @@
 # Red-social
 ### Nuestra red social  es *incógnita*
-![Image text](https://i.ibb.co/q1S431R/download.png)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/assets/img/Canva-general%20(1).png)
 ## Problematicas: 
 ### Actualmente existen muchas personas con problemas para expresarse, para liberar y contar lo que piensan y sienten por miedo a ser juzgados y ser señalados, se podría decir que no se sienten a gusto contar sus problemas a personas conocidas porque ya conocerían su imagen.
 ## Usuarios dirigidos:
@@ -13,6 +13,8 @@
 ## Mock-up:
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/1.JPG)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Mock-up/2.JPG)
+![Image text](assets/mock-up/fitma.JPG)
+
 ## Funcionalidad:
 ### Tiene como funcionalidad realizar publicaciones, comentarios, compartir incluso reaccionar a todo ello, permitiendo a los usuarios el poder expresar lo que piensan y sienten de manera confiada y segura y anonima .
 ## Psicologia del color 
@@ -37,5 +39,14 @@ Es un color neutro que esta asociado con la tranquilidad y seguridad.
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/2.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/3.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/4.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/5.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/6.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/7.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/8.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/9.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/10.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/11.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/12.jpg)
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/13.jpg)
 ![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/Historias-de-usuario/14.jpg)
 https://www.canva.com/design/DAFdFamwpqQ/cbLOhMAZvaeoNR12SR9Vow/edit?analyticsCorrelationId=1d6ae2e9-229a-483f-9a7b-7b176333c4d2

@@ -46,8 +46,8 @@ body {
 
 header {
     width: 100%;
-    background: linear-gradient(274.88deg, rgba(184, 168, 218, 0.91) 4.97%, rgba(244, 222, 245, 0.83) 98.41%);
-    position: sticky; 
+    background: linear-gradient(274.88deg, #C83DE5 4.97%, #3AF1CE 98.41%);
+    position: sticky;
     top: 0;
     z-index: 300;
 }
@@ -205,6 +205,7 @@ header label {
     box-shadow: 0.13vw 0.25vw 0.25vw rgba(0, 0, 0, 0.25), -1px 0px 4px rgba(0, 0, 0, 0.25);
     border-radius: 0.95vw;
     max-width: 25vw;
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -287,12 +288,12 @@ header label {
 .terms label {
     cursor: pointer;
 }
-/*
+
 header label:hover {
     cursor: pointer;
     background: rgba(0, 0, 0, 0.3);
 }
-*/
+
 .container-inputs button {
     width: 40%;
     height: 2.5vw;
@@ -341,7 +342,7 @@ header label:hover {
 
 .card-login a ,.card-signUp a{
     font-size: 0.9vw;
-color: #9a05c7;
+    color: #9F00FF;
     cursor: pointer;
     text-decoration: none;
     margin: 0 5px;
@@ -531,9 +532,9 @@ color: #9a05c7;
 @media (max-width:768px) {
 
     /*----------------ESTILOS PARA EL MENÚ DESPLEGABLE----------------*/
-/*    header label {
+    header label {
         display: block;
-    }*/
+    }
 
     .coderPlace {
         display: block;
@@ -725,11 +726,11 @@ color: #9a05c7;
 }
 /*----------------------------------------------------------------------------*/
 
-/*
+
 header {
     margin-top:3rem;
     margin-bottom:3rem;
-}*/
+}
 
 h1{
     font-size:3rem;
@@ -755,7 +756,7 @@ h2{
     padding: 0px;
     background-color:rgba(0, 0, 0, 0)
 }
-.oscuro {
+a {
     background-color:var(--color-fuente);
     color:var(--color-fondo);
     text-decoration: none;
@@ -771,7 +772,7 @@ h2{
     
 }
 
-.oscuro:hover {
+a:hover {
     background-color:var(--color-fondo);
     color:var(--color-fuente);
     text-decoration:none;

@@ -9,9 +9,7 @@ import { loginCheck } from "./assets/auth/loginCheck.js"
 import { auth, getTasks, saveTasks, onGetTasks, deleteTask, getTask, updateTask } from "./assets/auth/firebase.js"
 import './assets/auth/googleLogin.js'
 import './assets/auth/facebookLogin.js'
-import './assets/js/home.js'
-import './assets/auth/postlist.js'
-  /*
+/*
 let editStatus = false;
 let id = '';
 onAuthStateChanged(auth, async (user) => {
@@ -19,7 +17,7 @@ onAuthStateChanged(auth, async (user) => {
     loginCheck(user);
    const correo = user.email;
    //console.log(correo)
-
+  
     try {
 
       //Ingresa titulo, descripcion y usuario a firesetore:
@@ -120,8 +118,11 @@ onAuthStateChanged(auth, async (user) => {
 
 });
 
-
-
 */
+
+
+
+
+
 
 
