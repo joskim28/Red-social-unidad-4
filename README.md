@@ -31,7 +31,7 @@ Refleja seguridad,confianza además es sinónimo de calma,estabilidad y es asoci
 Es un color neutro que esta asociado con la tranquilidad y seguridad.
 
 ### Link de nuestro proyecto:
-### https://replit.com/@nicolealdana/Red-social-unidad-4#Mock-up/fitma.JPG
+### https://red-social-unidad-4.nicolealdana.repl.co/
 ### Link de Git Hub Pages: 
 ### https://joskim28.github.io/Red-social-unidad-4/
 ###  Historias de usuario:
